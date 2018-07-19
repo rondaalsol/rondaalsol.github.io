@@ -1,6 +1,6 @@
 ---
-title: Ullamco Laboris minim veniam
-featured: /assets/images/pic03.jpg
+title: Nace la Ronda
+featured: /assets/images/posts/pic01.jpg
 layout: post
 ---
 
