@@ -11,6 +11,10 @@
 
 /* Estilos agregados para el sitio de Ronda al Sol */
 
+.icono-portada {
+font-size: 100px;
+padding: 20px;
+}
 ul {
   list-style-type: initial;
   margin-left: 2em;
