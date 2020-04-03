@@ -1,3 +1,9 @@
+---
+title: Cambios en el ocaso del verano.
+featured: /assets/images/posts/pic04.jpg
+layout: post
+---
+
 Fue una maravillosa semana de actividades de la Ronda al Sol, llena de nuevos aprendizajes y la participación de nuevas niñas y niños. Aprovechando las agradables temperaturas, dedicamos varias jornadas a la experiencia en el mar en un verano que ya casi llega a su fin.
 
 Pudimos compartir colectivamente **observaciones sobre los cambios que trae el paso del tiempo y el ciclo de las estaciones**. El *Martes*, al volver a nuestro querido refugio en el bosque del Faro, luego de varios meses, lo encontramos alterado por la fuerza del viento. También el *Jueves* reflexionamos sobre los efectos de las altas temperaturas, la importancia de cuidarnos mutuamente y de la presencia de víboras en el bosque que acontecen en esta época del año.
