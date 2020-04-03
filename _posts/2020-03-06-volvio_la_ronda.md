@@ -1,6 +1,6 @@
 ---
 title: Volvió La Ronda
-featured: /assets/images/posts/pic01.jpg
+featured: /assets/images/posts/pic03.jpg
 layout: post
 ---
 
