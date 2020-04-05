@@ -1,6 +1,6 @@
 ---
 title: ¡La Ronda al Sol no se detuvo!
-featured: /assets/images/posts/
+featured: /assets/images/posts/pic05.jpg
 layout: post
 ---
 
