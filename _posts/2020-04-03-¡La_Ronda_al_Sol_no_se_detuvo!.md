@@ -1,4 +1,3 @@
-
 ---
 title: ¡La Ronda al Sol no se detuvo!
 featured: /assets/images/posts/
