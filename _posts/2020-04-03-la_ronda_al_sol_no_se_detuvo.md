@@ -2,6 +2,7 @@
 title: ¡La Ronda al Sol no se detuvo!
 featured: /assets/images/posts/pic05.jpg
 layout: post
+categories: cronicas
 ---
 
 A pesar del momento extraordinario que todxs estamos viviendo por estos días, ¡La Ronda no se detuvo!. Aunque se suspendieron los encuentros presenciales hasta nuevo aviso, la comunidad ronderil continua viva. Así nos seguimos manteniendo en contacto, compartiendo, jugando y aprendiendo entre todxs.

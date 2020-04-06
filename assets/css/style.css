@@ -1,4 +1,5 @@
 @charset 'UTF-8';
+@import url("font-awesome.min.css");
 @import url("font-awesome-55.min.css");
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Chelsea+Market');
 @import url("ronda.css");
@@ -294,6 +295,7 @@
 
 		.box
 		{
+			position: relative;
 			background: #ffffff;
 			border-bottom: solid 1px #ccc;
 		}
@@ -305,6 +307,28 @@
 			}
 
 	/* Button */
+
+	.post-categories {
+	  position: absolute;
+	  top: 1em;
+	  right: 1em;
+
+	}
+
+	.post-categories a {
+	  background: #000000d6;
+	  padding: 5px 10px;
+	  text-decoration: none;
+	  border-radius: 5px;
+	  text-transform: capitalize;
+	  color: #cecece;
+		font-size: 11pt;
+	}
+
+	.post-categories a:hover {
+		background: #000000b8;
+		color: white;
+	}
 
 		input[type="button"],
 		input[type="submit"],
@@ -708,7 +732,7 @@
 		#banner header
 		{
 			background-color: #252122;
-			background-color: rgba(34,30,31,0.98);
+			background-color: rgba(34,30,31,0.8);
 		}
 
 			#banner header h2
@@ -720,7 +744,7 @@
 
 			#banner header p
 			{
-				color: #d52349;
+				color: #efff00;
 				padding: 0;
 				font-style: normal;
 				margin: 0;

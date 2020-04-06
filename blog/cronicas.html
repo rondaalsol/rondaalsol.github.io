@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Crónicas
 layout: default
 ---
 <body>
@@ -15,24 +15,15 @@ layout: default
 				<!-- Blog -->
 					<section>
 						<header class="major">
-							<h2>Nuestro Blog</h2>
+							<h2>Crónicas</h2>
 						</header>
-						{% for post in site.posts offset: 0 limit: 10 %}
+
+						{% for post in site.categories.cronicas offset: 0 limit: 10 %}
 						<!-- <div class="row"> -->
-							<div class="6u" style="float: left; margin-bottom: 2em; padding: 0 15px;">
+						<div class="6u" style="float: left; margin-bottom: 2em; padding: 0 15px;">
+
 								<section class="box">
 									<a href="{{ site.baseurl }}{{ post.url }}" class="image featured"><img src="{{ site.baseurl }}{{ post.featured }}" alt="" /></a>
-									<div class="post-categories">
-										{% if post %}
-											{% assign categories = post.categories %}
-										{% else %}
-											{% assign categories = page.categories %}
-										{% endif %}
-										{% for category in categories %}
-										<a href="{{site.baseurl}}/blog/{{category|slugize}}">{{category}}</a>
-										{% unless forloop.last %}&nbsp;{% endunless %}
-										{% endfor %}
-									</div>
 									<header>
 										<h3>{{ post.title }}</h3>
 										<p>Publicado el {{ post.date | date_to_string }}</p>

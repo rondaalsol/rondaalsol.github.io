@@ -3,7 +3,8 @@
 		<div id="header">
 
 			<!-- Logo -->
-				<h1><a href="{{ site.baseurl }}/index.html">{{ site.name }}</a></h1>
+				<h1 id="logo-texto"><a href="{{ site.baseurl }}/index.html">{{ site.name }}</a></h1>
+				<h1 id="logo-grafico"><a href="{{ site.baseurl }}/index.html"><img src="/assets/logo.svg" /></a></h1>
 
 			<!-- Nav -->
 				<nav id="nav">
@@ -14,7 +15,7 @@
 						<li {% if current[1] == 'nosotrxs.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/nosotrxs.html">Nosotrxs</a></li>
 						<li {% if current[1] == 'proyecto.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/proyecto.html">El proyecto</a></li>
 						<li {% if current[1] == 'participa.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/participa.html">Participá</a></li>
-						<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>						
+						<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>
 						<li {% if current[1] == 'contacto.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/contacto.html">Contacto</a></li>
 					</ul>
 				</nav>

@@ -2,6 +2,7 @@
 title: Nace la Ronda
 featured: /assets/images/posts/pic01.jpg
 layout: post
+categories: noticias
 ---
 
  <p>Un 13 de Marzo de 2018 dimos inicio a este hermoso proyecto educativo… Naturaleza, playa, bosque, amor, aprendizaje autodirigido, libertad, pedagogía verde, infancia respetada, felicidad, rondas, entre otras tantas descripciones que podríamos comenzar por nombrar de la Ronda al Sol. La Ronda es un “Grupo de aprendizaje y juego libre en la naturaleza”.</p>

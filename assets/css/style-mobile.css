@@ -1,3 +1,5 @@
+@import url("font-awesome-55.min.css");
+
 /*
 	Dopetrope by HTML5 UP
 	html5up.net | @n33co
@@ -15,7 +17,13 @@
 		letter-spacing: 0;
 	}
 
-	h2, h3, h4, h5, h6
+	h2
+	{
+		font-size: 1.7em;
+	}
+
+
+	h3, h4, h5, h6
 	{
 		font-size: 1.25em;
 	}
@@ -32,7 +40,7 @@
 		{
 			margin: 0 0 1em 0;
 		}
-		
+
 		footer
 		{
 			margin: 2em 0 0 0;
@@ -44,7 +52,7 @@
 		{
 			padding: 25px 15px 20px 15px;
 		}
-		
+
 			.box .image.featured
 			{
 				left: 15px;
@@ -77,18 +85,18 @@
 		ul.actions
 		{
 		}
-		
+
 			ul.actions li
 			{
 				display: block;
 				margin-top: 0.5em;
 			}
-			
+
 			ul.actions li:first-child
 			{
 				margin-top: 0;
 			}
-			
+
 		ul.contact
 		{
 		}
@@ -106,7 +114,7 @@
 		ul.divided
 		{
 		}
-		
+
 			ul.divided li
 			{
 				padding: 0.5em 0 0.5em 0;
@@ -115,7 +123,7 @@
 		ul.links
 		{
 		}
-		
+
 			ul.links li
 			{
 				display: block;
@@ -123,7 +131,7 @@
 				padding: 0.25em 0 0 0;
 				margin: 0.25em 0 0 0;
 			}
-			
+
 			ul.links li:first-child
 			{
 				border-top: 0;
@@ -211,7 +219,7 @@
 			padding: 0 1em 0 1em;
 			font-style: italic;
 		}
-		
+
 			#navPanel .link:first-child
 			{
 				border-top: 0;
@@ -236,7 +244,7 @@
 
 	#header-wrapper
 	{
-		padding: 2em 0;
+		padding: 1em 0;
 	}
 
 	#footer-wrapper
@@ -245,7 +253,7 @@
 		overflow: hidden;
 		-webkit-transform: translateZ(0);
 	}
-	
+
 /*********************************************************************************/
 /* Intro                                                                         */
 /*********************************************************************************/
@@ -254,7 +262,7 @@
 	{
 		padding: 0 25px 0 25px;
 	}
-	
+
 		#intro section
 		{
 			position: relative;
@@ -273,7 +281,7 @@
 			{
 				margin: 0;
 			}
-			
+
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
@@ -282,13 +290,18 @@
 	{
 		text-align: center;
 	}
-	
+
 		#header h1
 		{
+			display: block;
 			color: #252122;
 			font-weight: 900;
 			font-size: 1.75em;
 			letter-spacing: -0.035em;
+		}
+		#header #logo-grafico
+		{
+			display: none;
 		}
 
 /*********************************************************************************/
@@ -309,19 +322,19 @@
 		margin: 2em 0 4em 0 !important;
 		padding: 6em 0;
 	}
-	
+
 		#banner header
 		{
 			padding: 1.5em 1em 1.5em 1em;
 		}
-		
+
 			#banner header h2
 			{
 				font-size: 1.5em;
 				line-height: 1.5em;
 				margin: 0 0 0.25em 0;
 			}
-			
+
 			#banner header p
 			{
 				font-size: 1.2em;
@@ -330,13 +343,18 @@
 /*********************************************************************************/
 /* Copyright                                                                     */
 /*********************************************************************************/
-		
+
 	#copyright
 	{
 		margin: 3em 0 0 0;
 	}
-	
+
 		#copyright .links
 		{
 			padding: 0.75em 1.25em 0.75em 1.25em;
 		}
+
+
+.\36 u {
+  width: 100% !important;
+}

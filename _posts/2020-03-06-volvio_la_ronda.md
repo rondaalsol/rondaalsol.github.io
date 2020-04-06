@@ -2,6 +2,7 @@
 title: Volvió La Ronda
 featured: /assets/images/posts/pic03.jpg
 layout: post
+categories: cronicas
 ---
 
 ¡Al fin volvió La Ronda! Luego del receso de verano, nos volvimos a encontrar. Este tercer año llegó con nuevxs amigues con quien compartir y jugar. También vino con la novedad de que algunos días de la semana la Ronda será de mañana y otros de tarde.

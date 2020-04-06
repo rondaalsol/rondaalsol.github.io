@@ -187,14 +187,21 @@
 		text-align: center;
 	}
 
-		#header h1
+		#header #logo-texto
 		{
+			display: none;
 			color: #252122;
 			font-weight: 900;
 			font-size: 2.5em;
 			letter-spacing: -0.035em;
 			margin: 0 0 1em 0;
 		}
+
+		#header #logo-grafico
+		{
+			display: block;
+		}
+
 
 /*********************************************************************************/
 /* Nav                                                                           */
@@ -259,7 +266,7 @@
 
 			#nav > ul > li.current > a
 			{
-				background: #d52349;
+				background: #48851b;
 				color: #fff !important;
 				font-weight: 700;
 			}

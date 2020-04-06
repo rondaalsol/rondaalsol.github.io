@@ -2,6 +2,7 @@
 title: Cambios en el ocaso del verano
 featured: /assets/images/posts/pic04.jpg
 layout: post
+categories: cronicas
 ---
 
 Fue una maravillosa semana de actividades de la Ronda al Sol, llena de nuevos aprendizajes y la participación de nuevas niñas y niños. Aprovechando las agradables temperaturas, dedicamos varias jornadas a la experiencia en el mar en un verano que ya casi llega a su fin.
