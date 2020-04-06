@@ -17,25 +17,24 @@ layout: default
 						<header class="major">
 							<h2>Nuestro Blog</h2>
 						</header>
-						{% for post in site.posts offset: 0 limit: 4 %}
-						<div class="row">
-							<div class="10u -1u">
+						{% for post in site.posts offset: 0 limit: 10 %}
+						<!-- <div class="row"> -->
+							<div class="5u -1u" style="float: left; margin-bottom: 2em;">
 								<section class="box">
-									<a href="#" class="image featured"><img src="{{ site.baseurl }}{{ post.featured }}" alt="" /></a>
+									<a href="{{ site.baseurl }}{{ post.url }}" class="image featured"><img src="{{ site.baseurl }}{{ post.featured }}" alt="" /></a>
 									<header>
 										<h3>{{ post.title }}</h3>
-										<p>Posted {{ post.date | date_to_string }}</p>
+										<p>Publicado el {{ post.date | date_to_string }}</p>
 									</header>
-									{{ post.excerpt }}
-									<footer>
+									<!-- {{ post.excerpt }} -->
+									<!-- <footer>
 										<ul class="actions">
 											<li><a href="{{ site.baseurl }}{{ post.url }}" class="button icon fa-file-text">Continue Reading</a></li>
-											<li><a href="#" class="button alt icon fa-comment">33 comments</a></li>
 										</ul>
-									</footer>
+									</footer> -->
 								</section>
 							</div>
-						</div>
+						<!-- </div> -->
 						{% endfor %}
 					</section>
 
