@@ -1,5 +1,5 @@
 ---
-title: Cambios en el ocaso del verano.
+title: Cambios en el ocaso del verano
 featured: /assets/images/posts/pic04.jpg
 layout: post
 ---

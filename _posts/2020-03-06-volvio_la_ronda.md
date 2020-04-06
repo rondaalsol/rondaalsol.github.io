@@ -4,9 +4,9 @@ featured: /assets/images/posts/pic03.jpg
 layout: post
 ---
 
-¡Al fin volvió La Ronda! Luego del receso de verano, nos volvimos a encontrar. Este tercer año llegó con nuevxs amigues con quien compartir y jugar. También vino con la novedad de que algunos días de la semana la Ronda será de mañana y otros de tarde. 
+¡Al fin volvió La Ronda! Luego del receso de verano, nos volvimos a encontrar. Este tercer año llegó con nuevxs amigues con quien compartir y jugar. También vino con la novedad de que algunos días de la semana la Ronda será de mañana y otros de tarde.
 
-Debido a que tocaron días de calor, decidimos que todos los encuentros de la semana sean en distintos puntos de la playa. Pudimos jugar bastante en el mar y con la tablas de barrenar. Aunque como siempre, antes de eso, **observamos y conversaramos sobre las condiciones en las que se encuentra el mar**, y así pudimos **tomar las precauciones necesarias**. **Hablamos sobre la dirección del viento y su intensidad**, también **aprendimos los puntos cardinales**, y como siempre antes de entrar, tuvimos en cuenta la presencia o no de canales. Todo esto nos ayudó a aprender a **manejar por nosotrxs mismxs el riesgo y comprender su significado**.
+Debido a que tocaron días de calor, decidimos que todos los encuentros de la semana sean en distintos puntos de la playa. Pudimos jugar bastante en el mar y con la tablas de barrenar. Aunque como siempre, antes de eso, **observamos y conversaremos sobre las condiciones en las que se encuentra el mar**, y así pudimos **tomar las precauciones necesarias**. **Hablamos sobre la dirección del viento y su intensidad**, también **aprendimos los puntos cardinales**, y como siempre antes de entrar, tuvimos en cuenta la presencia o no de canales. Todo esto nos ayudó a aprender a **manejar por nosotrxs mismxs el riesgo y comprender su significado**.
 
 El *Lunes* tuvimos la suerte, cuando la marea comenzó a bajar, de poder visitar e investigar el "Barrio de los Cangrejos", lo que nos dio la posibilidad de conversar sobre la **biodiversidad del entorno en el que vivimos y así tuvimos una mayor comprensión de él**. Esta experiencia también nos hace sentirnos parte de este entorno y así aprendemos a cuidarlo.
 
