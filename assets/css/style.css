@@ -46,10 +46,16 @@
 		font-weight: 800;
 	}
 
-	i, em
+	i
 	{
 		font-style: italic;
 	}
+
+	em
+	{
+		font-size: 120%;
+	}
+
 
 	sub
 	{
