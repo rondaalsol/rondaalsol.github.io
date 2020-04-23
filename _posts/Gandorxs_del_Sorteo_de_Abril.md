@@ -1,6 +1,6 @@
 ---
 title: Ganadorxs del sorteo de Abril
-featured: /assets/images/posts/
+featured: /assets/images/posts/pic08
 layout: post
 categories: noticias
 ---
