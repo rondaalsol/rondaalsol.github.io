@@ -12,7 +12,7 @@ elección aleatoria de lxs ganadores.
 
 <em>**Para ver el listado completo de participantes con sus números hacé click en <a href="https://evo.re/av-sorteo-participantes">este enlace</a>**</em>
 
-<em>**Grabación de la elección aleatoria de números sorteados hacé click en <a href="ttps://evo.re/av-sorteo-ganadores">este enlace</a>**</em>
+<em>**Grabación de la elección aleatoria de números sorteados hacé click en <a href="https://evo.re/av-sorteo-ganadores">este enlace</a>**</em>
 
 <em>**Código fuente y aplicación web utilizada hacé click en <a href="https://evo.re/av-sorteo-codigo">este enlace</a>**</em>
 
