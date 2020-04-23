@@ -1,3 +1,9 @@
+---
+title: Ganadorxs del sorteo de Abril
+featured: /assets/images/posts/
+layout: post
+categories: noticias
+---
 
 Les compartimos los resultados del sorteo de Abril. La ganadora de la primera canasta de premios fue Victoria Saja y de la
 segunda canasta, Silvia Steel. Aquí les compartimos la grabación dónde se puede observar el momento de la elección, junto
