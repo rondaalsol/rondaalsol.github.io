@@ -11,11 +11,6 @@ Les compartimos los resultados del <a href="/noticias/2020/04/06/sorteo_de_otono
 
 -----
 
-El sorteo fue realizado a través de un pequeño programa de computadora que aleatoramiente selecciona el número de la "rifa" ganadora. Todo está documentado para dar cuenta de la transparencia del proceso. Aquí les compartimos la grabación dónde se puede observar los números elegido, junto al listado de todxs lxs participantes. También disponisibilizamos el código fuente y a aplicación que utilizamos.
-
-
-* Para ver el listado completo de participantes con sus números hacé click en <a href="https://evo.re/av-sorteo-participantes">este enlace</a>
-* Grabación de la elección aleatoria de números sorteados disponible en <a href="https://evo.re/av-sorteo-ganadores">este enlace</a>
-* Para acceder al código fuente y aplicación web utilizada hacé click en <a href="https://evo.re/av-sorteo-codigo">este enlace</a>
+El sorteo fue realizado a través de un pequeño programa de computadora que aleatoramiente selecciona el número de la "rifa" ganadora. Todo está documentado para dar cuenta de la transparencia del proceso. Aquí les compartimos la <a href="https://evo.re/av-sorteo-ganadores">grabación</a> dónde se puede observar los números elegidos, junto al <a href="https://evo.re/av-sorteo-participantes">listado</a> de todxs lxs participantes. También disponisibilizamos el <a href="https://evo.re/av-sorteo-codigo">código fuente</a> y la aplicación que utilizamos.
 
 
