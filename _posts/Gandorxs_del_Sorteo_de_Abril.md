@@ -14,6 +14,6 @@ elección aleatoria de lxs ganadores.
 
 <em>**Grabación de la elección aleatoria de números sorteados hacé click en <a href="ttps://evo.re/av-sorteo-ganadores">este enlace</a>**</em>
 
-<em>**Código fuente y aplicación web utilizada https://evo.re/av-sorteo-codigo hacé click en <a href="https://evo.re/av-sorteo-codigo">este enlace</a>**</em>
+<em>**Código fuente y aplicación web utilizada hacé click en <a href="https://evo.re/av-sorteo-codigo">este enlace</a>**</em>
 
 ¡Muchas gracias por la gran colaboración y participación de todxs!
