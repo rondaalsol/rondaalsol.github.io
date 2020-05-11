@@ -7,7 +7,7 @@ categories: noticias
 
 Por la compleja situación que estamos viviendo en el contexto de pandemia mundial no estamos logrando realizar las actividades que llevamos adelante para afrontar los gastos que tenemos mes a mes.
 Es por ello que recurrimos a tu ayuda otra vez, para poder mantener el carácter autogestivo que es uno de los pilares de nuestra organización.
-Nuevamente te invitamos a participar del **Sorteo de Mayo en apoyo de la Ronda**, pero esta vez queremos compartir parte de los valores que promovemos en Ronda y estimular el intercambio de saberes. El sorteo se realizará el día 17 de Mayo a las 22 hs. Publiacremos el nombre de lxs ganadorxs en nuestras redes.
+Nuevamente te invitamos a participar del **Sorteo de Mayo en apoyo de la Ronda**, pero esta vez queremos compartir parte de los valores que promovemos en Ronda y estimular el intercambio de saberes. El sorteo se realizará el día 17 de Mayo a las 22 hs. Publicaremos el nombre de lxs ganadorxs en nuestras redes.
 
 <em>**¡Para participar ingresá en <a href="https://evo.re/av-sorteo-mayo-2020">este enlace</a>!**</em>
 
