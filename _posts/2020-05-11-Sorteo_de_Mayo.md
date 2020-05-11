@@ -1,6 +1,6 @@
 ---
 title: Sorteo de Mayo en apoyo de la Ronda
-featured: /assets/images/posts/
+featured: /assets/images/posts/pic08.jpg
 layout: post
 categories: noticias
 ---
