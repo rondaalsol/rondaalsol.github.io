@@ -29,7 +29,7 @@ Estos son los increíbles premios:
 * 1 bandeja desayuno de madera hecha por un niño de Ronda al Sol y pintada a mano
 * 1 horma de queso de girasol
 * 1 bolsita de hongos de pino de Sauce Grande
-* 1 Remera de Alma Verde pintada a mano por les niñxs
+* 1 Remera de Alma Verde pintada a mano por lxs niñxs
 * 1 Libreta grande y 1 libreta chica "Ronda al sol", encuadernadas a mano
 * 4 Tarjetones con los Acuerdos Toltecas
 * 1 Vale para Prisma, cerveza artesanal
@@ -47,7 +47,7 @@ Estos son los increíbles premios:
 * 1 dulce casero
 * 1 trenza de pan casero
 * 1 bolsita de hongos de pino de Sauce Grande
-* 1 Remera de Alma Verde pintada a mano por les niñxs
+* 1 Remera de Alma Verde pintada a mano por lxs niñxs
 * 1 Libreta grande y 1 libreta chica "Ronda al sol", encuadernadas a mano
 * 1 Vale para Prisma, cerveza artesanal
 
