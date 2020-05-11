@@ -1,0 +1,53 @@
+---
+title: Sorteo de Mayo en apoyo de la Ronda
+featured: /assets/images/posts/
+layout: post
+categories: noticias
+---
+
+Con el objetivo de poder sostener el autofinanciamiento de nuestro proyecto, y por la compleja situación que estamos viviendo en el contexto de pandemia mundial, no estamos logrando realizar las actividades que llevamos adelante para afrontar los gastos que tenemos mes a mes.
+Es por ello que recurrimos a tu ayuda nuevamente, para poder mantener el carácter de autogestivo que es uno de los pilares de nuestra organización.
+Nuevamente te invitamos a participar del **Sorteo de Mayo en apoyo de la Ronda**, pero esta vez queremos compartir parte de los valores que promovemos en Ronda y estimular el intercambio de saberes. También que conozcas a algunxs de lxs niñxs que integran este proyecto.
+
+<em>**¡Para participar ingresá en <a href="https://evo.re/av-sorteo-mayo-2020">este enlace</a>!**</em>
+
+¡¡¡GRACIAS por sumar tu aporte!!!
+
+----
+
+Estos son los increíbles premios:
+
+### CANASTA A:
+
+* Ramitos de salvia y romero, semillas y plantines
+* Una bolsa de tierra compostada
+* Una planta de malva con instructivo de usos y propiedades
+* Una pasta frola integral individual
+* Libro _"Educação espiritualidade e transformação social"_, Dora Incontri
+* Libro _"Derechos de la naturaleza"_, de Eduardo Gudynas
+* 2 barbijos artesanales (1 de niñx y 1 de adultx)
+* 1 bandeja desayuno de madera hecha por un niño de Ronda al Sol y pintada a mano
+* 1 horma de queso de girasol
+* 1 bolsita de hongos de pino de Sauce Grande
+* 1 Remera de Alma Verde pintada a mano por les niñxs
+* 1 Libreta grande y 1 libreta chica "Ronda al sol", encuadernadas a mano
+* 4 Tarjetones con los Acuerdos Toltecas
+* 1 Vale para Prisma, cerveza artesanal
+
+### CANASTA B:
+
+* Ramitos de salvia y romero, semillas y plantines
+* Una bolsa de tierra compostada
+* Un Cd de _"El violinista del amor y los pibes que miraban"_
+* Libro _"La revolución de las madres"_, de Laura Gutman
+* Libro _"Las voces del fuego: leyendas de nuestra América"_
+* 2 barbijos artesanales (1 de niñx y 1 de adultx)
+* 1 cuchara de madera artesanal
+* 1 torta invertida integral de manzana, banana y coco
+* 1 dulce casero
+* 1 trenza de pan casero
+* 1 bolsita de hongos de pino de Sauce Grande
+* 1 Remera de Alma Verde pintada a mano por les niñxs
+* 1 Libreta grande y 1 libreta chica "Ronda al sol", encuadernadas a mano
+* 1 Vale para Prisma, cerveza artesanal
+
