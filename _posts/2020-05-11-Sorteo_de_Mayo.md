@@ -23,8 +23,8 @@ Estos son los increíbles premios:
 * Una bolsa de tierra compostada
 * Una planta de malva con instructivo de usos y propiedades
 * Una pasta frola integral individual
-* Libro _"Educação espiritualidade e transformação social"_, Dora Incontri
-* Libro _"Derechos de la naturaleza"_, de Eduardo Gudynas
+* Libro *"Educação espiritualidade e transformação social"*, Dora Incontri
+* Libro *"Derechos de la naturaleza"*, de Eduardo Gudynas
 * 2 barbijos artesanales (1 de niñx y 1 de adultx)
 * 1 bandeja desayuno de madera hecha por un niño de Ronda al Sol y pintada a mano
 * 1 horma de queso de girasol
@@ -38,9 +38,9 @@ Estos son los increíbles premios:
 
 * Ramitos de salvia y romero, semillas y plantines
 * Una bolsa de tierra compostada
-* Un Cd de _"El violinista del amor y los pibes que miraban"_
-* Libro _"La revolución de las madres"_, de Laura Gutman
-* Libro _"Las voces del fuego: leyendas de nuestra América"_
+* Un Cd de *"El violinista del amor y los pibes que miraban"*
+* Libro *"La revolución de las madres"*, de Laura Gutman
+* Libro *"Las voces del fuego: leyendas de nuestra América"*
 * 2 barbijos artesanales (1 de niñx y 1 de adultx)
 * 1 cuchara de madera artesanal
 * 1 torta invertida integral de manzana, banana y coco
@@ -50,4 +50,3 @@ Estos son los increíbles premios:
 * 1 Remera de Alma Verde pintada a mano por lxs niñxs
 * 1 Libreta grande y 1 libreta chica "Ronda al sol", encuadernadas a mano
 * 1 Vale para Prisma, cerveza artesanal
-
