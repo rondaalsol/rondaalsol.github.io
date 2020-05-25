@@ -9,13 +9,23 @@ Por la compleja situación que estamos viviendo en el contexto de pandemia mundi
 Es por ello que recurrimos a tu ayuda otra vez, para poder mantener el carácter autogestivo que es uno de los pilares de nuestra organización.
 Nuevamente te invitamos a participar del **Sorteo de Mayo en apoyo de la Ronda**, pero esta vez queremos compartir parte de los valores que promovemos en Ronda y estimular el intercambio de saberes. El sorteo se realizará el día 24 de Mayo a las 22 hs. Publicaremos el nombre de lxs ganadorxs en nuestras redes.
 
-<em>**¡Para participar ingresá en <a href="https://evo.re/av-sorteo-mayo-2020">este enlace</a>!**</em>
+---
 
-¡¡¡GRACIAS por sumar tu aporte!!!
+## Gandorxs del Sorteo de Mayo de Ronda al Sol / Alma Verde
 
-----
+* GANADORA 1: 37 - Jesica Curin
+* GANADORA 2: 29 - Pichi Cavallo
 
-Estos son los increíbles premios:
+
+Los detalles:
+
+* Listado completo de participantes con sus números: https://evo.re/av-sorteo-participantes
+* Grabación de la elección aleatoria de números sorteados: https://evo.re/av-sorteo-ganadores
+* Código fuente y aplicación web utilizada: https://evo.re/av-sorteo-codigo
+
+---
+
+Estos fueron los premios:
 
 ### CANASTA A:
 
