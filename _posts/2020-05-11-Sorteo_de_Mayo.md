@@ -22,9 +22,9 @@ Las ganadoras son:
 
 Los detalles:
 
-* Listado completo de participantes con sus números <a href="https://evo.re/av-sorteo-participantes">Aquí</a
-* Grabación de la elección aleatoria de números sorteados <a href="https://evo.re/av-sorteo-ganadores">Aquí</a
-* Código fuente y aplicación web utilizada <a href="https://evo.re/av-sorteo-codigo">Aquí</a
+* Listado completo de participantes con sus números <a href="https://evo.re/av-sorteo-participantes">Aquí </a
+* Grabación de la elección aleatoria de números sorteados <a href="https://evo.re/av-sorteo-ganadores">Aquí </a
+* Código fuente y aplicación web utilizada <a href="https://evo.re/av-sorteo-codigo">Aquí </a
 
 ---
 
