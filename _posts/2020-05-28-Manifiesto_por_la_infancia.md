@@ -1,6 +1,6 @@
 ---
 title: Manifiesto por la infancia
-featured: /assets/images/posts/
+featured: /assets/images/posts/pic09.jpg
 layout: post
 categories: noticias
 ---
