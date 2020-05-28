@@ -11,5 +11,5 @@ En dicho manifiesto se expresa la necesidad de que se considere a la naturaleza 
 
 Al igual que todas las organizaciones firmantes del manifiesto, sostenemos que el aprendizaje en la naturaleza puede ser un gran aporte y complemento en estos tiempos que corren.
 
-Para ver el Manifiesto completo <a href="https://asociacionedna.files.wordpress.com/2020/05/manifiesto_20_05_15-1.pdf">ingresar aquí</a>
+Para ver el Manifiesto completo <a href="https://asociacionedna.files.wordpress.com/2020/05/manifiesto_20_05_15-1.pdf">ingresar aquí</a> y para firmarlo <a href="https://asociacionedna.wordpress.com/covid-19-manifiesto-por-la-infancia/">aquí</a>.
 
