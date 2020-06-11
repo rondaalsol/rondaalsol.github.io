@@ -15,6 +15,6 @@ Colaborando con $250 por mes, nos ayudás a seguir adelante con la Ronda y con t
 
 Entrando en <a href="https://evo.re/av-sorteo-junio">este link</a> tenes la opción de elegir cómo queres participar.
 
-Sorteamos el día 28/06 a las 22 hs.
+Realizaremos el sorteo el día 28/06 a las 22 hs.
 
 ¡Necesitamos tu colaboración! ¡Se parte del cambio que necesita el mundo!
