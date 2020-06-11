@@ -1,6 +1,6 @@
 ---
 title: Sorteo de Junio
-featured: /assets/images/posts/
+featured: /assets/images/posts/pic10.jpg
 layout: post
 categories: noticias
 ---
